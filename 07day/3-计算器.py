@@ -1,0 +1,7 @@
+x = float(input("请输入一个数字"))
+y = float(input("再输入一个数字"))
+print(x+y)
+print(x-y)
+print(x*y)
+print(x/y)
+print(x**y)

@@ -1,0 +1,8 @@
+riqi = "20180622"
+year = riqi[0:4]
+month = riqi[4:6]
+day = riqi[6:8]
+def p_qiqi():
+	d_month=[1,3,5,7,8,10,12]
+	x_month=[4,6,9,11]
+	
